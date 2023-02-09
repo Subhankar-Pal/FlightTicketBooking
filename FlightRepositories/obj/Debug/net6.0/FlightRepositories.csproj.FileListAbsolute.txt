@@ -1,0 +1,14 @@
+D:\FlightTicketBooking\FlightRepositories\bin\Debug\net6.0\FlightRepositories.deps.json
+D:\FlightTicketBooking\FlightRepositories\bin\Debug\net6.0\FlightRepositories.runtimeconfig.json
+D:\FlightTicketBooking\FlightRepositories\bin\Debug\net6.0\FlightRepositories.dll
+D:\FlightTicketBooking\FlightRepositories\bin\Debug\net6.0\FlightRepositories.pdb
+D:\FlightTicketBooking\FlightRepositories\obj\Debug\net6.0\FlightRepositories.csproj.AssemblyReference.cache
+D:\FlightTicketBooking\FlightRepositories\obj\Debug\net6.0\FlightRepositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FlightTicketBooking\FlightRepositories\obj\Debug\net6.0\FlightRepositories.AssemblyInfoInputs.cache
+D:\FlightTicketBooking\FlightRepositories\obj\Debug\net6.0\FlightRepositories.AssemblyInfo.cs
+D:\FlightTicketBooking\FlightRepositories\obj\Debug\net6.0\FlightRepositories.csproj.CoreCompileInputs.cache
+D:\FlightTicketBooking\FlightRepositories\obj\Debug\net6.0\FlightRepositories.dll
+D:\FlightTicketBooking\FlightRepositories\obj\Debug\net6.0\refint\FlightRepositories.dll
+D:\FlightTicketBooking\FlightRepositories\obj\Debug\net6.0\FlightRepositories.pdb
+D:\FlightTicketBooking\FlightRepositories\obj\Debug\net6.0\FlightRepositories.genruntimeconfig.cache
+D:\FlightTicketBooking\FlightRepositories\obj\Debug\net6.0\ref\FlightRepositories.dll
